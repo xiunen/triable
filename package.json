@@ -1,0 +1,20 @@
+{
+  "name": "triable",
+  "version": "1.0.0",
+  "description": "Get an object's props without check if the prop exist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiunen/triable.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiunen/triable/issues"
+  },
+  "homepage": "https://github.com/xiunen/triable#readme"
+}
